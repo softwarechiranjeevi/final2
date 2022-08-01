@@ -1,3 +1,7 @@
 Hi this is simple1.txt
 And this lab test
+<<<<<<< Updated upstream
 THIS IS AFTER
+=======
+git stash i am using
+>>>>>>> Stashed changes

@@ -2,3 +2,4 @@ This is simple2.txt
 Hi this is final one
 This is after changing modifications1
 this is at local copy
+git stash also in other file
