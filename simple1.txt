@@ -5,4 +5,8 @@ THIS IS AFTER
 =======
 git stash i am using
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 EXP AFTER
+=======
+ NEXT EXPERIMENT
+>>>>>>> Stashed changes
