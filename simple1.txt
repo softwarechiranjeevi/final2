@@ -5,3 +5,4 @@ THIS IS AFTER
 =======
 git stash i am using
 >>>>>>> Stashed changes
+EXP AFTER
