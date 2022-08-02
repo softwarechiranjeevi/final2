@@ -8,3 +8,4 @@ two
 TWO
 This is diff2
 data2 simple2.txt
+this is data and data
