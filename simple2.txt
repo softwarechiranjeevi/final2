@@ -5,3 +5,5 @@ this is at local copy
 git stash also in other file
 NEXT EXPERIMENT
 two
+TWO
+This is diff2
